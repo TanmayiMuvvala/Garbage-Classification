@@ -1,4 +1,3 @@
-# Garbage-Classification
 # 🗑️ Garbage Classification using MobileNetV2 (Transfer Learning)
 
 This project uses **MobileNetV2**, a powerful pre-trained CNN architecture, to classify garbage images into 6 categories:
