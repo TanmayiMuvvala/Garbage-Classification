@@ -67,6 +67,13 @@ We used **MobileNetV2** from TensorFlow Keras with the following steps:
 
 ---
 
+## 🎬 Gradio App Demo
+
+Here's a screen recording of the Gradio web app where garbage images are classified in real-time:
+
+▶️ [Gradio App Demo - Watch the Video](./gradio-screen-recording-2025-07-08T05-32-14.mp4)
+link: https://7ba09d53a6db3b9cb9.gradio.live/?
+
 ## 🗂️ Folder Structure
 
 ```
@@ -96,9 +103,12 @@ TrashType_Image_Dataset/
 - scikit-learn
 - Matplotlib
 - Seaborn
+- Gradio
+
+Install all with:
 
 ```bash
-pip install tensorflow numpy scikit-learn matplotlib seaborn
+pip install tensorflow numpy scikit-learn matplotlib seaborn gradio
 ```
 
 ---
@@ -112,9 +122,9 @@ pip install tensorflow numpy scikit-learn matplotlib seaborn
 
 ## 📌 Future Work
 
-- Integrate Gradio or Streamlit for live image classification
-- Deploy as a web or mobile application
-- Add data augmentation and more robust evaluation
+- Deploy app permanently to Hugging Face Spaces
+- Add user login & history functionality
+- Extend dataset with more real-world images
 
 ---
 
