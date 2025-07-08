@@ -72,6 +72,7 @@ We used **MobileNetV2** from TensorFlow Keras with the following steps:
 Here's a screen recording of the Gradio web app where garbage images are classified in real-time:
 
 ▶️ [Gradio App Demo - Watch the Video](https://drive.google.com/file/d/1zW6NvwNQd59dmQS6uWVYoOMk4wKUCi-R/view?usp=sharing)
+
 link: https://7ba09d53a6db3b9cb9.gradio.live/?
 
 ## 🗂️ Folder Structure
